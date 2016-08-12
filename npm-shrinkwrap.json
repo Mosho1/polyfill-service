@@ -1135,7 +1135,7 @@
     },
     "json3": {
       "version": "3.3.2",
-      "from": "json3@3.3.2",
+      "from": "https://registry.npmjs.org/json3/-/json3-3.3.2.tgz",
       "resolved": "https://registry.npmjs.org/json3/-/json3-3.3.2.tgz"
     },
     "json5": {
@@ -1915,6 +1915,11 @@
           "resolved": "https://registry.npmjs.org/lru-cache/-/lru-cache-2.2.4.tgz"
         }
       }
+    },
+    "usertiming": {
+      "version": "0.1.8",
+      "from": "usertiming@latest",
+      "resolved": "https://registry.npmjs.org/usertiming/-/usertiming-0.1.8.tgz"
     },
     "util-deprecate": {
       "version": "1.0.2",
