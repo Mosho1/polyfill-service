@@ -9,7 +9,10 @@
 		"modernizr:json"
 	],
 	"browsers": {
-		"ie": "6 - 7"
+		"ie": "6 - 7",
+		"firefox": "< 3.5",
+		"safari": "< 4",
+		"opera": "8.54 - 10.4"
 	},
 	"license": "MIT",
 	"repo": "https://github.com/bestiejs/json3",
